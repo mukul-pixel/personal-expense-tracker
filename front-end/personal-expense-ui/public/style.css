@@ -1,0 +1,12 @@
+.submitBtn:hover{
+    background: rgb(76, 157, 244);
+}
+
+.modal-overlay{
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
